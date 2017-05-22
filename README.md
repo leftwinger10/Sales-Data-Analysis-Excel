@@ -1,4 +1,4 @@
-** Sales data analysis report using Pivot Tables - Excel Workbook **
+# Sales data analysis report using Pivot Tables - Excel Workbook 
 
 My solutions to ModelOff 2013 Data Analysis questions in Excel. File contains 5,016 sales records and 11 columns. 3 columns had to be added as part of the solution to the assignment. The answers to following questions are included in the Excel workbook:
 
