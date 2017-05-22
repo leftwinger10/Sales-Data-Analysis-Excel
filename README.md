@@ -1,6 +1,6 @@
 # Sales data analysis report using Pivot Tables - Excel 
 
-My solutions to ModelOff 2013 Data Analysis questions in Excel. File contains 5,016 sales records and 11 columns. 3 columns had to be added as part of the solution to the assignment. The answers to following questions are included in the Excel workbook:
+The workbook consist of solutions to ModelOff 2013 Data Analysis questions. The data file consisted of 5,016 sales records and 11 columns. 3 columns were added that were required for analysis of the below questions. The answers to following questions are included in the Excel workbook:
 
 1. Over the entire analysis period, what was the quantity of item 10 sold while John Jones was the Manager on duty?
 2. Over the entire analysis period, what were the 3 highest selling items by quantity?
